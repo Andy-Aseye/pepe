@@ -46,14 +46,14 @@ li{
 }
 
 .connect-btn {
-    width: 8vw;
-    height: 4.2vh;
+    width: 7vw;
+    height: 4.3vh;
     background: #09031D;
     color: #1683BB;
     margin-top: 2vh;
     border: 1px solid #18ADFA;
     border-radius: 6px;
-    box-shadow:2px 2px 2px 1px linear-gradient(139.46deg, #18ADFA 9.3%, #B916BA 85.4%);
+    box-shadow:2px 0px 10px -1px #48B9F3;
 }
 
 .header-img {
@@ -137,12 +137,13 @@ margin: auto;
     background: #09031D;
     background: -webkit-linear-gradient(45deg, #48B9F3 0%, #8A40B8 100%);
     font-size: .9vw;
+    font-family: 'Barlow';
     font-weight: 700;
     background-clip: text;
     -webkit-text-fill-color: transparent;
     border: 1px solid #18ADFA;
     border-radius: 6px;
-    box-shadow:2px 2px 2px 1px linear-gradient(139.46deg, #18ADFA 9.3%, #B916BA 85.4%);
+    box-shadow:2px 0px 10px -1px #48B9F3;
 }
 
 .arrow-btn button{
